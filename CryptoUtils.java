@@ -1,4 +1,4 @@
-package stuff2;
+package passwordmanager;
 
 
 import java.io.File;
